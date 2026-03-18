@@ -1,0 +1,9 @@
+I want to create a simple no-password login. 
+
+Since I am using supabase as my host, I decided to use their Passwordless email logins.
+
+This way, we enforce a level of security and authentication, while keeping the login desgin of the project simple. 
+
+
+https://supabase.com/docs/guides/auth/auth-email-passwordless
+
